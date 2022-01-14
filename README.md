@@ -6,6 +6,7 @@
 
 # Analytics ⚙️
 ![Joysankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyMajumdar2001&show_icons=true&theme=synthwave)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoyMajumdar2001)](https://github.com/JoyMajumdar2001)
 
 # Let's connect? 🤝
 [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoyMajumdar2001)
