@@ -7,6 +7,8 @@
 # Analytics ⚙️
 ![Joysankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyMajumdar2001&show_icons=true&theme=synthwave)
 
+[![@joysankar's Holopin board](https://holopin.io/api/user/board?user=joysankar)](https://holopin.io/@joysankar)
+
 # Let's connect? 🤝
 [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoyMajumdar2001)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joysankar2001/)
