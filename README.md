@@ -6,9 +6,6 @@
 
 # Analytics ⚙️
 ![Joysankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyMajumdar2001&show_icons=true&theme=synthwave)
-
-[![@joysankar's Holopin board](https://holopin.io/api/user/board?user=joysankar)](https://holopin.io/@joysankar)
-
 <a href="https://makers.appwrite.io/JoyMajumdar2001">
     <img src="https://appwrite.io/cards/makers/JoyMajumdar2001" alt="JoyMajumdar2001's Maker Card" />
 </a>
